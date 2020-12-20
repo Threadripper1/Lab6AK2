@@ -5,4 +5,5 @@ We use this task is modificate lab work number four.
 ![](https://github.com/Threadripper1/Lab6AK2/blob/main/images/1.png)
 ### Use insmod hello.ko file
 And we can see time in milisecond
+
 ![](https://github.com/Threadripper1/Lab6AK2/blob/main/images/2.png)
